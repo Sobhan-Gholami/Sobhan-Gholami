@@ -1,6 +1,7 @@
 # Hi, I'm Sobhan 👋
 
 **Full-Stack Developer · Reinforcement Learning · Algorithmic Trading**
+
 📍 Turin, Italy · 🎓 BSc Computer Science (Bauman MSTU) · Finance & Economics with Data Science @ University of Turin
 
 I build production web apps, payment systems, and RL-driven trading tools — from idea to deployment.
@@ -21,11 +22,11 @@ I build production web apps, payment systems, and RL-driven trading tools — fr
 
 ### 🛠️ Tech stack
 
-**Languages:** Python · TypeScript · JavaScript · SQL · Lua · HTML/CSS
-**Backend & Web:** Node.js · Express · Next.js · React · Prisma · REST APIs · OAuth 2.0 · JWT
-**Data & ML:** Reinforcement Learning (Q-Learning, Policy Gradient) · Pandas · NumPy · scikit-learn
-**Finance:** Algorithmic trading · Risk management · MetaTrader 5
-**DevOps:** Linux · Windows Server · Nginx · Render · Vercel · Netlify · Git
+- **Languages:** Python · TypeScript · JavaScript · SQL · Lua · HTML/CSS
+- **Backend & Web:** Node.js · Express · Next.js · React · Prisma · REST APIs · OAuth 2.0 · JWT
+- **Data & ML:** Reinforcement Learning (Q-Learning, Policy Gradient) · Pandas · NumPy · scikit-learn
+- **Finance:** Algorithmic trading · Risk management · MetaTrader 5
+- **DevOps:** Linux · Windows Server · Nginx · Render · Vercel · Netlify · Git
 
 ---
 
