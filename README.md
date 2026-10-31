@@ -1,34 +1,40 @@
 # Hi, I'm Sobhan 👋
 
-**Full-Stack Developer · RL Engineer · Finance & Data Science Student**
-📍 Turin, Italy | 🎓 University of Turin
+**Full-Stack Developer · Reinforcement Learning · Algorithmic Trading**
+📍 Turin, Italy · 🎓 BSc Computer Science (Bauman MSTU) · Finance & Economics with Data Science @ University of Turin
+
+I build production web apps, payment systems, and RL-driven trading tools — from idea to deployment.
 
 ---
 
-### What I build
-- 🤖 **Trader V5** — Algorithmic trading bot for MT5 with RL decision engine, live execution, and prop-firm risk management
-- 🌐 **Web apps** — Responsive full-stack applications (JS · HTML/CSS · REST APIs)
-- 🧠 **RL agents** — Custom Q-Learning and policy-gradient environments in Python
+### 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[DonateHub](https://github.com/Sobhan-Gholami/donatehub)** | Donation platform for streamers: Zarinpal / PayPal / USDT payments, OBS overlay widgets, Kick & YouTube OAuth | Next.js · TypeScript · SQLite |
+| **[Cafe Drop](https://github.com/Sobhan-Gholami/cafe-drop)** | Breakfast subscription & online ordering PWA for a café, with map-based delivery zones and a payment gateway | Next.js · Prisma · NextAuth |
+| **[Russ Zone](https://github.com/Sobhan-Gholami/russ-zone)** | E-commerce platform built from scratch with Telegram order notifications and an admin dashboard | Node.js · Express · SQLite |
+| **[PC AI Voice Assistant](https://github.com/Sobhan-Gholami/pc-ai-voice-assistant)** | Voice-controlled desktop assistant: opens apps, searches the web, controls the system, answers with an LLM | Python |
+| **Trader V5** *(private)* | Algorithmic trading bot for MetaTrader 5 with a Q-Learning decision engine, multi-timeframe analysis, and risk management | Python · Pandas · MT5 API |
 
 ---
 
-### Tech stack
-```python
-languages  = ["Python", "JavaScript", "HTML5", "CSS3"]
-ml_tools   = ["NumPy", "Pandas", "scikit-learn"]
-rl_tools   = ["Q-Learning", "Policy Gradient", "Custom Envs"]
-trading    = ["MetaTrader5", "ATR", "Multi-TF Analysis", "Risk Mgmt"]
-tools      = ["Git", "VS Code", "REST APIs"]
-```
+### 🛠️ Tech stack
+
+**Languages:** Python · TypeScript · JavaScript · SQL · Lua · HTML/CSS
+**Backend & Web:** Node.js · Express · Next.js · React · Prisma · REST APIs · OAuth 2.0 · JWT
+**Data & ML:** Reinforcement Learning (Q-Learning, Policy Gradient) · Pandas · NumPy · scikit-learn
+**Finance:** Algorithmic trading · Risk management · MetaTrader 5
+**DevOps:** Linux · Windows Server · Nginx · Render · Vercel · Netlify · Git
 
 ---
 
-### Currently
+### 📌 Currently
+
 - 📚 Studying Finance & Economics with Data Science @ UniTo
-- 🔧 Developing Trader V5 — live RL-powered trading system
-- 📈 Learning advanced ML and quantitative finance
+- 🔧 Developing Trader V5, a live RL-powered trading system
+- 💼 Open to software development, data science, and fintech roles in Turin or remote
 
----
+### 📫 Contact
 
-📫 sobhan.gholami.official@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sobhangholami/)
+[LinkedIn](https://www.linkedin.com/in/sobhangholami/) · sobhan.gholami.official@gmail.com
